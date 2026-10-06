@@ -1,0 +1,13 @@
+# Normalize line endings
+# Language detection rules
+# Do not edit manually
+node_modules/* linguist-vendored
+
+yarn.lock linguist-generated
+*.min.css linguist-generated
+build/* linguist-vendored
+public/**/*.html linguist-vendored
+**/*.py linguist-detectable
+*.py linguist-detectable
+*.md linguist-documentation
+# eof 49a5074e
